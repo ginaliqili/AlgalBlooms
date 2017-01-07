@@ -4,7 +4,7 @@ turbidity, etc.) into the web tool display. Basic visualization functionality ha
 which is why values will show up as NaN.
 
 I built this app from beginning to end as part of an EPA research project proposal with the Virginia Tech Geography and Statistics Department during December and January 2016/2017. 
-The project authors will include Dr. Yang Shao, Dr. Xinwei Deng, Dr. Drew Ellis, and myself. 
+The project authors will include Dr. Yang Shao (Dept. Geography), Dr. Xinwei Deng (Dept. Statistics), Dr. Drew Ellis (Dept. Geography), and myself. 
 
 The current online web application is available at http://ginali.xyz/algalblooms.
 
