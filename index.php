@@ -262,6 +262,12 @@ function zoomToFeature(e) {
 
 
     map.fitBounds(e.target.getBounds());
+
+    if (states_geoJson != null) {
+        map.removeLayer(states_geoJson);
+    }
+
+
 }
 
 function onEachFeature(feature, layer) {
